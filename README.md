@@ -1,0 +1,2 @@
+# Disaster_Response_Pipeline
+In this project, using the real messages that were sent during disaster events, I will be creating a machine learning pipeline to categorize these events so that one can send the messages to an appropriate disaxter relief agency. This project includes a web app where an emergency worker can input a new mesage and classification results in several categories. Thw web app will also dispaly visualization of the data.
